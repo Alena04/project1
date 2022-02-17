@@ -1,4 +1,4 @@
-#Arduino part 
+// Arduino part 
 // JoyStick Shield pins
 const int A_pin = 2, B_pin = 3, C_pin = 4, D_pin = 5;
 const int E_pin = 6, F_pin = 7, JoyStick_pin = 8;
